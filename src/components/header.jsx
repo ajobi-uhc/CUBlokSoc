@@ -12,7 +12,7 @@ export const Header = (props) => {
                 </h1>
                 <p>{props.data ? props.data.paragraph : 'Loading'}</p>
                 <a
-                  href='https://discord.gg/DBg4gRTy'
+                  href='https://discord.gg/tcHRX4hUXc'
                   className='btn btn-custom btn-lg page-scroll'
                 >
                   JOIN US
